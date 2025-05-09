@@ -1,4 +1,4 @@
-package conceptsAndQn;
+package conceptQn;
 
 public class Array {
 
